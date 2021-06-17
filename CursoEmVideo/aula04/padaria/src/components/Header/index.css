@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@100;200;300;400&display=swap');
+
+div.my-header{
+    padding: 20px;
+    text-align: center;
+    background-color: blue;
+    font-size: 30pt;
+    font-family: 'Palanquin', sans-serif;
+}
